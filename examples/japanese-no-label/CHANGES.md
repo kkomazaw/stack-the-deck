@@ -6,4 +6,4 @@
 - `README.md`: Removed Syntasso/Kratix references; added credits and modification section
 - `board_mat-size61x36.jpg`: Removed Syntasso logo; added attributions
 - `pack.jpg`: Replaced pack face branding (added attributions)
-- `cards.pdf`: Translated all card text into Japanese; Replaced Syntasso logo with 'Stack-the-Deck' logo
+- `cards.odp` and `cards.pptx: Translated all card text into Japanese; Replaced Syntasso logo with 'Stack-the-Deck' logo
